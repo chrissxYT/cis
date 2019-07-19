@@ -1,0 +1,4 @@
+The files util.c, util.h, sock.c and sock.h are subject to the
+ISC-License as found in LICENSE.quark.
+Everything else in this Repository is licensed under the BSD 3-clause
+license as found in LICENSE.cis.
